@@ -1,0 +1,91 @@
+body {
+    /*color: red;*/
+    /*background: url(wood.jpg) 0 0 / 12% no-repeat, url(fon.png);*/
+}
+
+/*canvas {*/
+/*    border: 4px solid green;*/
+/*}*/
+
+/*iframe {*/
+/*    border: 4px solid blue;*/
+/*}*/
+
+/*.portrait {*/
+/*    float: left;*/
+/*    margin: 15px;*/
+/*    box-shadow: 1px 1px 1px 1px red, -1px -1px 1px 1px blue;*/
+/*}*/
+
+/*.stop {*/
+/*    clear: left;*/
+/*}*/
+
+/*.columns {*/
+/*    outline: 1px solid red;*/
+/*}*/
+
+/*.columns::after {*/
+/*    content: '';*/
+/*    display: block;*/
+/*    clear: both;*/
+/*}*/
+
+/*.column {*/
+/*    float: left;*/
+/*    width: 25%;*/
+/*    height: 100px;*/
+/*    outline: 1px solid black;*/
+/*}*/
+
+/*.clear {*/
+/*    clear: both;*/
+/*}*/
+
+/*body {*/
+/*    margin: 0;*/
+/*}*/
+
+/*.columns {*/
+/*    display: flex;*/
+/*}*/
+
+/*.column {*/
+/*    width: 25%;*/
+/*    height: 100px;*/
+/*}*/
+
+/*.column1 {*/
+/*    background: red;*/
+/*}*/
+
+/*.column2 {*/
+/*    background: green;*/
+/*}*/
+
+/*.column3 {*/
+/*    background: blue;*/
+/*}*/
+
+/*.column4 {*/
+/*    background: orange;*/
+/*}*/
+
+/*@media screen and (orientation: portrait) {*/
+/*    .columns {*/
+/*        flex-direction: column;*/
+/*    }*/
+
+/*    .column {*/
+/*        width: 100%;*/
+/*    }*/
+/*}*/
+
+
+.stop .ereer {
+    color: yellow;
+}
+
+.stop .ereer {
+    color: red;
+}
